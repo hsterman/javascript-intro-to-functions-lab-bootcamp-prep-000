@@ -11,5 +11,5 @@ function sayHiToGrandma(string) {
 }
 
 function logWhisper() {
-  
+  console.log()
 }
