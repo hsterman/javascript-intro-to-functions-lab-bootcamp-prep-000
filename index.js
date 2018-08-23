@@ -10,9 +10,12 @@ function sayHiToGrandma(string) {
   return "YES INDEED!".toUpperCase()
 }
 
-// console.log(string.toLowerCase())
 function logWhisper(string) {
   var lowerCase = string.toLowerCase()
   console.log(lowerCase)
-  
+}
+
+function logShout(string) {
+  var upperCase = string.toUpperCase()
+  console.log(upperCase)
 }
