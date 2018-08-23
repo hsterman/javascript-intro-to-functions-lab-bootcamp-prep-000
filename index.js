@@ -19,3 +19,7 @@ function logShout(string) {
   let upperCase = string.toUpperCase()
   console.log(upperCase)
 }
+
+function sayHiToGrandma(string) {
+  return "I can't hear you"
+}
