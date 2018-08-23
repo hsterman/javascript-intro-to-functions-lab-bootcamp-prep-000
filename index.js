@@ -11,11 +11,11 @@ function sayHiToGrandma(string) {
 }
 
 function logWhisper(string) {
-  var lowerCase = string.toLowerCase()
+  let lowerCase = string.toLowerCase()
   console.log(lowerCase)
 }
 
 function logShout(string) {
-  var upperCase = string.toUpperCase()
+  let upperCase = string.toUpperCase()
   console.log(upperCase)
 }
