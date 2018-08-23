@@ -10,6 +10,6 @@ function sayHiToGrandma(string) {
   return "YES INDEED!".toUpperCase()
 }
 
-function logWhisper() {
+function logWhisper(string) {
   console.log()
 }
