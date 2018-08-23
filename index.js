@@ -7,7 +7,9 @@ function whisper(string) {
 }
 
 function sayHiToGrandma(string) {
-  
+  if () {
+    
+  }
 }
 
 function logWhisper(string) {
